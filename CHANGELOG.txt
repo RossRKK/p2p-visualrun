@@ -1,7 +1,11 @@
-Iteration 0.0.0
+Iteration 0.0.0.0
 ============
 *Currently using openCV to recognise Image
 *using FileInfo to get the file directory
 *OpenFileDialog to get the program
 *Ross and Java are making the detection
 *Nimrod and C# are making the running the external programs bit.
+
+Iteration 0.0.0.1
+=============
+*added the glimmering of program to run the programs.
