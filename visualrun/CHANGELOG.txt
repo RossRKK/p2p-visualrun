@@ -9,3 +9,7 @@ Iteration 0.0.0.0
 Iteration 0.0.0.1
 =============
 *added the glimmering of program to run the programs.
+
+Iteration 0.0.0.2
+=============
+*You can get a  file dialog now. Working on saving the data.

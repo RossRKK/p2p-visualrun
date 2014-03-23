@@ -1,0 +1,7 @@
+C:\Users\Nimjaq\Documents\GitHub\p2p-visualrun\visualrun\visualrun\bin\Debug\visualrun.exe
+C:\Users\Nimjaq\Documents\GitHub\p2p-visualrun\visualrun\visualrun\bin\Debug\visualrun.pdb
+C:\Users\Nimjaq\Documents\GitHub\p2p-visualrun\visualrun\visualrun\obj\x86\Debug\visualrun.Form1.resources
+C:\Users\Nimjaq\Documents\GitHub\p2p-visualrun\visualrun\visualrun\obj\x86\Debug\visualrun.Properties.Resources.resources
+C:\Users\Nimjaq\Documents\GitHub\p2p-visualrun\visualrun\visualrun\obj\x86\Debug\visualrun.csproj.GenerateResource.Cache
+C:\Users\Nimjaq\Documents\GitHub\p2p-visualrun\visualrun\visualrun\obj\x86\Debug\visualrun.exe
+C:\Users\Nimjaq\Documents\GitHub\p2p-visualrun\visualrun\visualrun\obj\x86\Debug\visualrun.pdb
