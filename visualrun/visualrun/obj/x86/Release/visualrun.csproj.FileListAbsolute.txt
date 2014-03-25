@@ -12,3 +12,4 @@ C:\Users\Nimjaq\Documents\GitHub\p2p-visualrun\visualrun\visualrun\bin\Release\v
 C:\Users\Nimjaq\Documents\GitHub\p2p-visualrun\visualrun\visualrun\obj\x86\Release\visualrun.Form1.resources
 C:\Users\Nimjaq\Documents\GitHub\p2p-visualrun\visualrun\visualrun\obj\x86\Release\visualrun.Properties.Resources.resources
 C:\Users\Nimjaq\Documents\GitHub\p2p-visualrun\visualrun\visualrun\obj\x86\Release\visualrun.csproj.GenerateResource.Cache
+C:\Users\Nimjaq\Documents\GitHub\p2p-visualrun\visualrun\visualrun\obj\x86\Release\visualrun.csprojResolveAssemblyReference.cache
